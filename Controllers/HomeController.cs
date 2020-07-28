@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using vendas_web.Models;
+using vendas_web.Models.ViewsModels;
 
 namespace vendas_web.Controllers
 {
