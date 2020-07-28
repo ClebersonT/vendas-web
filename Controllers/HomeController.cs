@@ -17,7 +17,8 @@ namespace vendas_web.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Vendas web com linguagem C#";
+            ViewData["email"] = "clebersontedoro28@gmail.com";
 
             return View();
         }
